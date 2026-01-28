@@ -372,7 +372,7 @@ export default function Home() {
 
             <div className="mt-4">
               <a
-                href="/Alaa_Tamam_Resume.pdf"
+                href="/Alaa_Tamam_Resume.docx"
                 target="_blank"
                 rel="noreferrer"
                 className="inline-block rounded-xl border border-zinc-200 px-4 py-2 text-sm hover:bg-zinc-50"
